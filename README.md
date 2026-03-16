@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Anyul Rivas, a Senior Architect currently working on [GFT](https://www.gft.com/es/es), and postgraduate student at [UPC](https://upcschool.upc.edu/).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the Diario de Avisos website, the rsi-assistant, the photo statistics, and the superhero battle arena
